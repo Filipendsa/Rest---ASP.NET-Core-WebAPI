@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OUmMxUtzx8Lz+dcLRV16NU3F8TCxgFgeOl9dRlsaa/HRhbacEBTEn6lGi+WAH7tdPHOj9iwS+0wB22lUMxb46w==",
+  "dgSpecHash": "YCmJQqvzt819iFEjH932kHFSZGVKvtXV5DcR5iwbkNV1+UqMkcPXJyI7EJBKSYaZtiZxzrvflPZojWiLuL6k1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\filipe.nogueira\\source\\repos\\Filipendsa\\Rest-ASP.NET-Core-WebAPI\\MinhaAPI\\src\\DevIO.Business\\DevIO.Business.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\filipe.nogueira\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512"
+    "C:\\Users\\filipe.nogueira\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
   ],
   "logs": []
 }

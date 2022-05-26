@@ -4,8 +4,6 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup>
-    <ActiveDebugProfile>IIS Express</ActiveDebugProfile>
-    <ShowAllFiles>false</ShowAllFiles>
-    <ToolsVersionPromptShown>3.3</ToolsVersionPromptShown>
+    <ActiveDebugProfile>DevIO.Api</ActiveDebugProfile>
   </PropertyGroup>
 </Project>
